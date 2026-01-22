@@ -86,12 +86,12 @@ layers:
   - '#'
   - $
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
-  - PG UP
+  - {t: \, s: '|'}
   - (
-  - {t: '[', s: '{'}
+  - )
   - {t: '-', s: _}
-  - {t: '-', s: _}
-  - {t: '=', s: +}
+  - HOME
+  - PG UP
   - $$mdi:skip-next$$
   - $$mdi:skip-previous$$
   - '%'
@@ -99,12 +99,12 @@ layers:
   - '&'
   - '*'
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
-  - PG DN
-  - )
-  - {t: ']', s: '}'}
-  - {t: '=', s: +}
+  - {t: /, s: '?'}
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
+  - {t: '=', s: +}
+  - END
+  - PG DN
   - $$mdi:apple-keyboard-shift$$
   - RGB OFF
   - RGB ON
