@@ -80,11 +80,11 @@ layers:
   - F10
   - $$mdi:backspace-reverse-outline$$
   - PLAY PAUSE
-  - $$mdi:lock$$
   - '!'
   - '@'
   - '#'
   - $
+  - '&mkp MB4'
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - {t: \, s: '|'}
   - (
@@ -92,12 +92,12 @@ layers:
   - {t: '-', s: _}
   - HOME
   - PG UP
-  - $$mdi:skip-previous$$
-  - $$mdi:skip-next$$
+  - AL SCREENSAVER
   - '%'
   - ^
   - '&'
   - '*'
+  - '&mkp MB5'
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - {t: /, s: '?'}
   - {t: '[', s: '{'}
