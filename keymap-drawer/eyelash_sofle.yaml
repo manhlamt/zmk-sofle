@@ -84,7 +84,7 @@ layers:
   - '@'
   - '#'
   - $
-  - '&mkp MB4'
+  - '&mkp PERCENT'
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - {t: \, s: '|'}
   - (
@@ -93,11 +93,11 @@ layers:
   - HOME
   - PG UP
   - AL SCREENSAVER
-  - '%'
   - ^
   - '&'
   - '*'
-  - '&mkp MB5'
+  - (
+  - '&mkp RPAR'
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - {t: /, s: '?'}
   - {t: '[', s: '{'}
