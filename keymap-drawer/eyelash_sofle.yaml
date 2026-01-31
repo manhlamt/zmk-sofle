@@ -84,7 +84,7 @@ layers:
   - '@'
   - '#'
   - $
-  - '&mkp PERCENT'
+  - '%'
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - {t: \, s: '|'}
   - (
@@ -97,7 +97,7 @@ layers:
   - '&'
   - '*'
   - (
-  - '&mkp RPAR'
+  - )
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - {t: /, s: '?'}
   - {t: '[', s: '{'}
