@@ -85,8 +85,8 @@
         layer_1 {
             bindings = <
 &kp ESC               &kp F1           &kp F2          &kp F3           &kp F4           &kp F5             &mmv MOVE_UP     &kp F6           &kp F7           &kp F8      &kp F9     &kp F10           &kp DELETE
-&kp C_PLAY_PAUSE      &kp EXCL         &kp AT          &kp HASH         &kp DOLLAR       &mkp PERCENT       &mmv MOVE_DOWN   &kp BSLH         &kp LPAR         &kp RPAR    &kp MINUS  &kp HOME          &kp PG_UP
-&kp C_AL_SCREENSAVER  &kp CARET        &kp AMPERSAND   &kp ASTERISK     &kp LPAR         &mkp RPAR          &mmv MOVE_LEFT   &kp FSLH         &kp LBKT         &kp RBKT    &kp EQUAL  &kp END           &kp PG_DN
+&kp C_PLAY_PAUSE      &kp EXCL         &kp AT          &kp HASH         &kp DOLLAR       &kp PERCENT        &mmv MOVE_DOWN   &kp BSLH         &kp LPAR         &kp RPAR    &kp MINUS  &kp HOME          &kp PG_UP
+&kp C_AL_SCREENSAVER  &kp CARET        &kp AMPERSAND   &kp ASTERISK     &kp LPAR         &kp RPAR           &mmv MOVE_LEFT   &kp FSLH         &kp LBKT         &kp RBKT    &kp EQUAL  &kp END           &kp PG_DN
 &kp LSHFT             &rgb_ug RGB_OFF  &rgb_ug RGB_ON  &rgb_ug RGB_EFF  &rgb_ug RGB_EFR  &rgb_ug RGB_SPI    &mmv MOVE_RIGHT  &rgb_ug RGB_BRI  &rgb_ug RGB_BRD  &kp INSERT  &kp F11    &kp F12           &trans
 &kp C_MUTE            &trans           &trans          &trans           &trans           &trans             &mkp LCLK        &trans           &trans           &trans      &trans     &trans
             >;
