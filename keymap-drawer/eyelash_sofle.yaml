@@ -92,8 +92,8 @@ layers:
   - {t: '-', s: _}
   - HOME
   - PG UP
-  - AL SCREENSAVER
-  - ^
+  - SCREENSAVER
+  - Ctl+A
   - '&'
   - '*'
   - (
@@ -106,11 +106,11 @@ layers:
   - END
   - PG DN
   - $$mdi:apple-keyboard-shift$$
-  - RGB OFF
-  - RGB ON
-  - RGB EFF
-  - RGB EFR
-  - RGB SPI
+  - UNDO
+  - CUT
+  - COPY
+  - PASTE
+  - REDO
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
   - RGB BRI
   - RGB BRD
@@ -119,11 +119,11 @@ layers:
   - F12
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:volume-off$$
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - RGB OFF
+  - RGB ON
+  - RGB EFF
   - {type: held}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - RGB EFR
   - $$mdi:mouse-left-click-outline$$
   - $$mdi:backspace-reverse-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
