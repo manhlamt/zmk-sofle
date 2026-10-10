@@ -90,8 +90,8 @@ layers:
   - (
   - )
   - {t: '-', s: _}
-  - HOME
-  - PG UP
+  - F11
+  - F12
   - SCREENSAVER
   - Ctl+A
   - '&'
@@ -103,8 +103,8 @@ layers:
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
   - {t: '=', s: +}
-  - END
-  - PG DN
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:apple-keyboard-shift$$
   - UNDO
   - CUT
@@ -114,9 +114,9 @@ layers:
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
   - RGB BRI
   - RGB BRD
-  - Ins
-  - F11
-  - F12
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:volume-off$$
   - RGB OFF
@@ -154,9 +154,9 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:arrow-up-bold$$
-  - F12
-  - _
-  - +
+  - {t: '$$mdi:transfer$$', type: trans}
+  - HOME
+  - PG UP
   - {t: '$$mdi:transfer$$', type: trans}
   - OUT USB
   - OUT BLE
@@ -168,8 +168,8 @@ layers:
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-right-bold$$
-  - '{'
-  - '}'
+  - END
+  - PG DN
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:progress-download$$
   - {t: '$$mdi:transfer$$', type: trans}
