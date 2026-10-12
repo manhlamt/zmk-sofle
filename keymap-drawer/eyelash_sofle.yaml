@@ -80,11 +80,11 @@ layers:
   - F10
   - {t: '=', s: +}
   - PLAY PAUSE
-  - '!'
-  - '@'
-  - '#'
-  - $
-  - '%'
+  - Ctl+Q
+  - Ctl+W
+  - Ctl+E
+  - Ctl+R
+  - Ctl+T
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - {t: \, s: '|'}
   - (
@@ -94,10 +94,10 @@ layers:
   - F12
   - SCREENSAVER
   - Ctl+A
-  - '&'
-  - '*'
-  - (
-  - )
+  - Ctl+S
+  - Ctl+D
+  - Ctl+F
+  - Ctl+G
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - {t: /, s: '?'}
   - {t: '[', s: '{'}
@@ -106,7 +106,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:apple-keyboard-shift$$
-  - UNDO
+  - Ctl+Z
   - CUT
   - COPY
   - PASTE
